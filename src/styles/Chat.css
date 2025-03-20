@@ -76,7 +76,7 @@
 @media (max-width: 390px) {
   .chat-box .ai-message,
   .chat-box .user-message {
-    max-width: 38%;
+    max-width: 45%;
   }
   .chat-box .ai-message p,
   .chat-box .user-message p {
