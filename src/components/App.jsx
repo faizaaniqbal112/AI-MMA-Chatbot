@@ -1,7 +1,7 @@
 import { useState } from "react";
 import getResponse from "../server/ai-chat";
-import Chat from "./chat";
-import UserInput from "./UserInput";
+import Chat from "./Chat.jsx";
+import UserInput from "./UserInput.jsx";
 import "../styles/App.css";
 
 function App() {
